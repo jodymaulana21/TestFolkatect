@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+<httpSample t="270" it="0" lt="196" ct="123" ts="1742015295447" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="196" it="0" lt="196" ct="123" ts="1742015295447" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="74" it="0" lt="74" ct="0" ts="1742015295643" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="258" it="0" lt="189" ct="119" ts="1742015295460" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="189" it="0" lt="189" ct="119" ts="1742015295460" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015295649" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="189" ct="123" ts="1742015295472" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="189" it="0" lt="189" ct="123" ts="1742015295472" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015295661" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="264" it="0" lt="195" ct="130" ts="1742015295488" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="195" it="0" lt="195" ct="130" ts="1742015295488" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015295684" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="190" ct="125" ts="1742015295512" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="190" it="0" lt="190" ct="125" ts="1742015295512" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-8" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015295703" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="276" it="0" lt="200" ct="131" ts="1742015295493" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="7737" sby="260" ng="28" na="28">
+  <httpSample t="200" it="0" lt="200" ct="131" ts="1742015295493" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-6" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="76" it="0" lt="76" ct="0" ts="1742015295693" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="6219" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="261" it="0" lt="182" ct="119" ts="1742015295523" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="182" it="0" lt="182" ct="119" ts="1742015295523" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-9" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="79" it="0" lt="79" ct="0" ts="1742015295705" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="279" it="0" lt="189" ct="123" ts="1742015295505" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="189" it="0" lt="189" ct="123" ts="1742015295505" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-7" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="90" it="0" lt="90" ct="0" ts="1742015295694" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="298" it="0" lt="200" ct="133" ts="1742015295488" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="200" it="0" lt="200" ct="133" ts="1742015295488" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="97" it="0" lt="97" ct="0" ts="1742015295689" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="267" it="0" lt="190" ct="124" ts="1742015295533" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="190" it="0" lt="190" ct="124" ts="1742015295533" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-10" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="77" it="0" lt="77" ct="0" ts="1742015295723" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="199" ct="126" ts="1742015295544" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="199" it="0" lt="199" ct="126" ts="1742015295544" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-11" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="70" it="0" lt="70" ct="0" ts="1742015295743" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="274" it="0" lt="207" ct="134" ts="1742015295554" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="207" it="0" lt="207" ct="134" ts="1742015295554" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-12" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015295761" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="268" it="0" lt="199" ct="124" ts="1742015295572" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="199" it="0" lt="199" ct="124" ts="1742015295572" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-14" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015295771" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="271" it="0" lt="195" ct="122" ts="1742015295594" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="7731" sby="260" ng="30" na="30">
+  <httpSample t="196" it="0" lt="195" ct="122" ts="1742015295594" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-16" dt="text" by="1518" sby="136" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="75" it="0" lt="75" ct="0" ts="1742015295790" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="6213" sby="124" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="290" it="0" lt="206" ct="129" ts="1742015295583" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="7737" sby="260" ng="30" na="30">
+  <httpSample t="206" it="0" lt="206" ct="129" ts="1742015295583" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-15" dt="text" by="1518" sby="136" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="83" it="0" lt="83" ct="0" ts="1742015295790" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="6219" sby="124" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="195" ct="128" ts="1742015295604" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="7731" sby="260" ng="30" na="30">
+  <httpSample t="195" it="0" lt="195" ct="128" ts="1742015295604" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-17" dt="text" by="1518" sby="136" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="74" it="0" lt="74" ct="0" ts="1742015295799" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="6213" sby="124" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="190" ct="124" ts="1742015295618" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="190" it="0" lt="190" ct="124" ts="1742015295618" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-18" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015295808" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="318" it="0" lt="227" ct="138" ts="1742015295562" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="227" it="0" lt="227" ct="138" ts="1742015295562" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-13" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="90" it="0" lt="90" ct="0" ts="1742015295790" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="270" it="0" lt="202" ct="126" ts="1742015295624" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="202" it="0" lt="202" ct="126" ts="1742015295624" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-19" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015295826" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="264" it="0" lt="193" ct="127" ts="1742015295634" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="193" it="0" lt="193" ct="127" ts="1742015295634" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-20" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015295827" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="191" ct="124" ts="1742015295646" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="191" it="0" lt="191" ct="124" ts="1742015295646" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-21" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015295838" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="263" it="0" lt="196" ct="130" ts="1742015295654" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="196" it="0" lt="196" ct="130" ts="1742015295654" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-22" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015295850" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="279" it="0" lt="211" ct="142" ts="1742015295663" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="211" it="0" lt="211" ct="142" ts="1742015295663" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-23" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015295875" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="201" ct="133" ts="1742015295673" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="201" it="0" lt="201" ct="133" ts="1742015295673" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-24" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015295875" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="263" it="0" lt="197" ct="127" ts="1742015295703" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="197" it="0" lt="197" ct="127" ts="1742015295703" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-27" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015295900" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="286" it="0" lt="214" ct="138" ts="1742015295684" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="214" it="0" lt="214" ct="138" ts="1742015295684" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-25" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="72" it="0" lt="71" ct="0" ts="1742015295898" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="279" it="0" lt="210" ct="129" ts="1742015295695" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="210" it="0" lt="210" ct="129" ts="1742015295695" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-26" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015295905" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="265" it="0" lt="194" ct="130" ts="1742015295713" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="194" it="0" lt="194" ct="130" ts="1742015295713" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-28" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015295907" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="281" it="0" lt="210" ct="139" ts="1742015295723" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="210" it="0" lt="210" ct="139" ts="1742015295723" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-29" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="70" it="0" lt="70" ct="0" ts="1742015295934" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="276" it="0" lt="205" ct="129" ts="1742015295734" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="205" it="0" lt="205" ct="129" ts="1742015295734" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-30" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015295939" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="272" it="0" lt="194" ct="128" ts="1742015295745" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="7737" sby="260" ng="28" na="28">
+  <httpSample t="194" it="0" lt="194" ct="128" ts="1742015295745" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-31" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="78" it="0" lt="78" ct="0" ts="1742015295939" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="6219" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="283" it="0" lt="206" ct="135" ts="1742015295755" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="206" it="0" lt="206" ct="135" ts="1742015295755" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-32" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="77" it="0" lt="77" ct="0" ts="1742015295961" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="275" it="0" lt="198" ct="130" ts="1742015295763" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="198" it="0" lt="198" ct="130" ts="1742015295763" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-33" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="77" it="0" lt="77" ct="0" ts="1742015295961" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="265" it="0" lt="195" ct="129" ts="1742015295773" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="195" it="0" lt="195" ct="129" ts="1742015295773" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-34" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="70" it="0" lt="70" ct="0" ts="1742015295968" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="266" it="0" lt="196" ct="129" ts="1742015295784" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="196" it="0" lt="196" ct="129" ts="1742015295784" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-35" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="70" it="0" lt="70" ct="0" ts="1742015295980" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="263" it="0" lt="194" ct="127" ts="1742015295794" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="194" it="0" lt="194" ct="127" ts="1742015295794" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-36" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015295988" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="188" ct="123" ts="1742015295815" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="188" it="0" lt="188" ct="123" ts="1742015295815" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-38" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015296003" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="268" it="0" lt="200" ct="126" ts="1742015295806" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="200" it="0" lt="200" ct="126" ts="1742015295806" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-37" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015296006" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="260" it="0" lt="187" ct="123" ts="1742015295824" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="187" it="0" lt="187" ct="123" ts="1742015295824" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-39" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="73" it="0" lt="73" ct="0" ts="1742015296011" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="191" ct="126" ts="1742015295834" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="191" it="0" lt="191" ct="126" ts="1742015295834" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-40" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015296025" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="274" it="0" lt="206" ct="136" ts="1742015295843" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="206" it="0" lt="206" ct="136" ts="1742015295843" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-41" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015296049" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="193" ct="129" ts="1742015295857" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="193" it="0" lt="193" ct="129" ts="1742015295857" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-42" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296050" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="258" it="0" lt="187" ct="124" ts="1742015295864" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="187" it="0" lt="187" ct="124" ts="1742015295864" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-43" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015296051" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="190" ct="122" ts="1742015295883" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="190" it="0" lt="190" ct="122" ts="1742015295883" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-45" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015296073" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="267" it="0" lt="197" ct="123" ts="1742015295876" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="197" it="0" lt="197" ct="123" ts="1742015295876" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-44" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="70" it="0" lt="70" ct="0" ts="1742015296073" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="194" ct="129" ts="1742015295893" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="194" it="0" lt="194" ct="129" ts="1742015295893" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-46" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="63" it="0" lt="63" ct="0" ts="1742015296087" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="262" it="0" lt="195" ct="130" ts="1742015295904" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="195" it="0" lt="195" ct="130" ts="1742015295904" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-47" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015296099" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="188" ct="124" ts="1742015295924" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="188" it="0" lt="188" ct="124" ts="1742015295924" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-49" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296112" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="266" it="0" lt="198" ct="123" ts="1742015295914" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="198" it="0" lt="198" ct="123" ts="1742015295914" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-48" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015296112" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="261" it="0" lt="195" ct="129" ts="1742015295934" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="195" it="0" lt="195" ct="129" ts="1742015295934" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-50" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296129" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="187" ct="124" ts="1742015295944" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="187" it="0" lt="187" ct="124" ts="1742015295944" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-51" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015296131" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="252" it="0" lt="184" ct="123" ts="1742015295954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="184" it="0" lt="184" ct="123" ts="1742015295954" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-52" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015296138" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="190" ct="128" ts="1742015295966" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="190" it="0" lt="190" ct="128" ts="1742015295966" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-53" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296156" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="191" ct="127" ts="1742015295995" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="192" it="0" lt="191" ct="127" ts="1742015295995" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-56" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="62" it="0" lt="62" ct="0" ts="1742015296187" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="252" it="0" lt="186" ct="124" ts="1742015296005" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="7731" sby="260" ng="28" na="28">
+  <httpSample t="187" it="0" lt="186" ct="124" ts="1742015296005" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-57" dt="text" by="1518" sby="136" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015296192" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="6213" sby="124" ng="28" na="28">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="275" it="0" lt="208" ct="131" ts="1742015295984" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="208" it="0" lt="208" ct="131" ts="1742015295984" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-55" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296193" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="289" it="0" lt="223" ct="140" ts="1742015295975" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="223" it="0" lt="223" ct="140" ts="1742015295975" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-54" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296198" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="261" it="0" lt="194" ct="130" ts="1742015296015" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="195" it="0" lt="194" ct="130" ts="1742015296015" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-58" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="65" ct="0" ts="1742015296210" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="250" it="0" lt="186" ct="124" ts="1742015296035" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="186" it="0" lt="186" ct="124" ts="1742015296035" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-60" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015296221" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="265" it="0" lt="198" ct="135" ts="1742015296023" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="198" it="0" lt="198" ct="135" ts="1742015296023" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-59" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296222" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="250" it="0" lt="186" ct="124" ts="1742015296044" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="7731" sby="260" ng="25" na="26">
+  <httpSample t="186" it="0" lt="186" ct="124" ts="1742015296044" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-61" dt="text" by="1518" sby="136" ng="25" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015296230" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="6213" sby="124" ng="25" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="192" ct="131" ts="1742015296054" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="192" it="0" lt="192" ct="131" ts="1742015296054" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-62" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015296246" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="259" it="0" lt="195" ct="130" ts="1742015296064" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="195" it="0" lt="195" ct="130" ts="1742015296064" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-63" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015296259" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="194" ct="130" ts="1742015296075" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="194" it="0" lt="194" ct="130" ts="1742015296075" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-64" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="63" it="0" lt="63" ct="0" ts="1742015296269" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="258" it="0" lt="192" ct="131" ts="1742015296085" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="7731" sby="260" ng="26" na="26">
+  <httpSample t="192" it="0" lt="192" ct="131" ts="1742015296085" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-65" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296277" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="6213" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="263" it="0" lt="197" ct="130" ts="1742015296095" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="7731" sby="260" ng="27" na="27">
+  <httpSample t="197" it="0" lt="197" ct="130" ts="1742015296095" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-66" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015296292" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="6213" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1251" it="0" lt="1186" ct="1122" ts="1742015296114" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="7731" sby="260" ng="34" na="34">
+  <httpSample t="1187" it="0" lt="1186" ct="1122" ts="1742015296114" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-68" dt="text" by="1518" sby="136" ng="34" na="34">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015297301" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="6213" sby="124" ng="34" na="34">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1276" it="0" lt="1212" ct="1150" ts="1742015296104" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="7731" sby="260" ng="33" na="33">
+  <httpSample t="1212" it="0" lt="1212" ct="1150" ts="1742015296104" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-67" dt="text" by="1518" sby="136" ng="33" na="33">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015297316" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="6213" sby="124" ng="33" na="33">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1247" it="0" lt="1184" ct="1123" ts="1742015296133" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="7731" sby="260" ng="33" na="33">
+  <httpSample t="1184" it="0" lt="1184" ct="1123" ts="1742015296133" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-70" dt="text" by="1518" sby="136" ng="33" na="33">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="63" it="0" lt="63" ct="0" ts="1742015297317" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="6213" sby="124" ng="33" na="33">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1265" it="0" lt="1196" ct="1132" ts="1742015296122" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="7731" sby="260" ng="31" na="31">
+  <httpSample t="1196" it="0" lt="1196" ct="1132" ts="1742015296122" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-69" dt="text" by="1518" sby="136" ng="31" na="31">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015297318" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="6213" sby="124" ng="31" na="31">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1289" it="0" lt="1215" ct="1140" ts="1742015296144" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="7731" sby="260" ng="30" na="30">
+  <httpSample t="1215" it="0" lt="1215" ct="1140" ts="1742015296144" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-71" dt="text" by="1518" sby="136" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="74" it="0" lt="74" ct="0" ts="1742015297359" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="6213" sby="124" ng="30" na="30">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1281" it="0" lt="1209" ct="1146" ts="1742015296155" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="1209" it="0" lt="1209" ct="1146" ts="1742015296155" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-72" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="72" it="0" lt="72" ct="0" ts="1742015297364" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1273" it="0" lt="1204" ct="1141" ts="1742015296163" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="7731" sby="260" ng="29" na="29">
+  <httpSample t="1204" it="0" lt="1204" ct="1141" ts="1742015296163" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-73" dt="text" by="1518" sby="136" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015297367" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="6213" sby="124" ng="29" na="29">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1273" it="0" lt="1205" ct="1138" ts="1742015296174" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="7737" sby="260" ng="27" na="27">
+  <httpSample t="1205" it="0" lt="1205" ct="1138" ts="1742015296174" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-74" dt="text" by="1518" sby="136" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015297379" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="6219" sby="124" ng="27" na="27">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1262" it="0" lt="1194" ct="1133" ts="1742015296187" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="7737" sby="260" ng="26" na="26">
+  <httpSample t="1194" it="0" lt="1194" ct="1133" ts="1742015296187" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-75" dt="text" by="1518" sby="136" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="68" it="0" lt="68" ct="0" ts="1742015297381" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="6219" sby="124" ng="26" na="26">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1271" it="0" lt="1206" ct="1142" ts="1742015296206" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="7731" sby="260" ng="25" na="25">
+  <httpSample t="1206" it="0" lt="1206" ct="1142" ts="1742015296206" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-77" dt="text" by="1518" sby="136" ng="25" na="25">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="64" ct="0" ts="1742015297412" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="6213" sby="124" ng="25" na="25">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1295" it="0" lt="1229" ct="1162" ts="1742015296197" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="7731" sby="260" ng="24" na="24">
+  <httpSample t="1229" it="0" lt="1229" ct="1162" ts="1742015296197" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-76" dt="text" by="1518" sby="136" ng="24" na="24">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015297427" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="6213" sby="124" ng="24" na="24">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1263" it="0" lt="1196" ct="1134" ts="1742015296245" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="7731" sby="260" ng="23" na="23">
+  <httpSample t="1196" it="0" lt="1196" ct="1134" ts="1742015296245" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-81" dt="text" by="1518" sby="136" ng="23" na="23">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015297441" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="6213" sby="124" ng="23" na="23">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1284" it="0" lt="1211" ct="1136" ts="1742015296225" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="7737" sby="260" ng="22" na="22">
+  <httpSample t="1211" it="0" lt="1211" ct="1136" ts="1742015296225" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-79" dt="text" by="1518" sby="136" ng="22" na="22">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="73" it="0" lt="73" ct="0" ts="1742015297436" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="6219" sby="124" ng="22" na="22">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1295" it="0" lt="1211" ct="1146" ts="1742015296216" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="7731" sby="260" ng="21" na="21">
+  <httpSample t="1211" it="0" lt="1211" ct="1146" ts="1742015296216" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-78" dt="text" by="1518" sby="136" ng="21" na="21">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="83" it="0" lt="83" ct="0" ts="1742015297428" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="6213" sby="124" ng="21" na="21">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1276" it="0" lt="1204" ct="1138" ts="1742015296236" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="7731" sby="260" ng="20" na="20">
+  <httpSample t="1204" it="0" lt="1204" ct="1138" ts="1742015296236" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-80" dt="text" by="1518" sby="136" ng="20" na="20">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="72" it="0" lt="72" ct="0" ts="1742015297440" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="6213" sby="124" ng="20" na="20">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1258" it="0" lt="1185" ct="1122" ts="1742015296256" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="7731" sby="260" ng="19" na="19">
+  <httpSample t="1185" it="0" lt="1185" ct="1122" ts="1742015296256" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-82" dt="text" by="1518" sby="136" ng="19" na="19">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="73" it="0" lt="73" ct="0" ts="1742015297441" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="6213" sby="124" ng="19" na="19">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1262" it="0" lt="1199" ct="1138" ts="1742015296266" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="7731" sby="260" ng="18" na="18">
+  <httpSample t="1199" it="0" lt="1199" ct="1138" ts="1742015296266" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-83" dt="text" by="1518" sby="136" ng="18" na="18">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="63" it="0" lt="63" ct="0" ts="1742015297465" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="6213" sby="124" ng="18" na="18">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1262" it="0" lt="1196" ct="1131" ts="1742015296274" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="7731" sby="260" ng="17" na="17">
+  <httpSample t="1196" it="0" lt="1196" ct="1131" ts="1742015296274" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-84" dt="text" by="1518" sby="136" ng="17" na="17">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015297470" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="6213" sby="124" ng="17" na="17">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1279" it="0" lt="1213" ct="1149" ts="1742015296284" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="7731" sby="260" ng="16" na="16">
+  <httpSample t="1213" it="0" lt="1213" ct="1149" ts="1742015296284" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-85" dt="text" by="1518" sby="136" ng="16" na="16">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015297497" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="6213" sby="124" ng="16" na="16">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1274" it="0" lt="1209" ct="1142" ts="1742015296295" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="7731" sby="260" ng="15" na="15">
+  <httpSample t="1209" it="0" lt="1209" ct="1142" ts="1742015296295" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-86" dt="text" by="1518" sby="136" ng="15" na="15">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015297504" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="6213" sby="124" ng="15" na="15">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1263" it="0" lt="1194" ct="1130" ts="1742015296306" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="7731" sby="260" ng="15" na="15">
+  <httpSample t="1194" it="0" lt="1194" ct="1130" ts="1742015296306" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-87" dt="text" by="1518" sby="136" ng="15" na="15">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015297500" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="6213" sby="124" ng="15" na="15">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="1263" it="0" lt="1199" ct="1132" ts="1742015296315" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="7731" sby="260" ng="13" na="13">
+  <httpSample t="1199" it="0" lt="1199" ct="1132" ts="1742015296315" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-88" dt="text" by="1518" sby="136" ng="13" na="13">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015297514" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="6213" sby="124" ng="13" na="13">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3284" it="0" lt="3218" ct="3147" ts="1742015296325" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="7731" sby="260" ng="12" na="12">
+  <httpSample t="3218" it="0" lt="3218" ct="3147" ts="1742015296325" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-89" dt="text" by="1518" sby="136" ng="12" na="12">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="66" it="0" lt="66" ct="0" ts="1742015299543" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="6213" sby="124" ng="12" na="12">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3286" it="0" lt="3205" ct="3134" ts="1742015296338" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="7731" sby="260" ng="11" na="11">
+  <httpSample t="3205" it="0" lt="3205" ct="3134" ts="1742015296338" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-90" dt="text" by="1518" sby="136" ng="11" na="11">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="81" it="0" lt="81" ct="0" ts="1742015299543" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="6213" sby="124" ng="11" na="11">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3281" it="0" lt="3212" ct="3145" ts="1742015296345" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="7731" sby="260" ng="10" na="10">
+  <httpSample t="3212" it="0" lt="3212" ct="3145" ts="1742015296345" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-91" dt="text" by="1518" sby="136" ng="10" na="10">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="69" it="0" lt="69" ct="0" ts="1742015299557" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="6213" sby="124" ng="10" na="10">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3273" it="0" lt="3201" ct="3130" ts="1742015296356" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="7731" sby="260" ng="9" na="9">
+  <httpSample t="3201" it="0" lt="3201" ct="3130" ts="1742015296356" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-92" dt="text" by="1518" sby="136" ng="9" na="9">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="72" it="0" lt="72" ct="0" ts="1742015299557" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="6213" sby="124" ng="9" na="9">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3275" it="0" lt="3210" ct="3140" ts="1742015296365" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="7731" sby="260" ng="8" na="8">
+  <httpSample t="3210" it="0" lt="3210" ct="3140" ts="1742015296365" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-93" dt="text" by="1518" sby="136" ng="8" na="8">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015299575" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="6213" sby="124" ng="8" na="8">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3258" it="0" lt="3194" ct="3131" ts="1742015296385" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="7731" sby="260" ng="7" na="7">
+  <httpSample t="3194" it="0" lt="3194" ct="3131" ts="1742015296385" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-95" dt="text" by="1518" sby="136" ng="7" na="7">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015299579" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="6213" sby="124" ng="7" na="7">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3263" it="0" lt="3198" ct="3134" ts="1742015296405" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="7731" sby="260" ng="6" na="6">
+  <httpSample t="3198" it="0" lt="3198" ct="3134" ts="1742015296405" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-97" dt="text" by="1518" sby="136" ng="6" na="6">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015299603" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="6213" sby="124" ng="6" na="6">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3293" it="0" lt="3229" ct="3162" ts="1742015296394" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="7731" sby="260" ng="5" na="5">
+  <httpSample t="3229" it="0" lt="3229" ct="3162" ts="1742015296394" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-96" dt="text" by="1518" sby="136" ng="5" na="5">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="64" it="0" lt="64" ct="0" ts="1742015299623" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="6213" sby="124" ng="5" na="5">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3276" it="0" lt="3211" ct="3137" ts="1742015296415" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="7731" sby="260" ng="4" na="4">
+  <httpSample t="3211" it="0" lt="3211" ct="3137" ts="1742015296415" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-98" dt="text" by="1518" sby="136" ng="4" na="4">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="65" it="0" lt="65" ct="0" ts="1742015299626" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="6213" sby="124" ng="4" na="4">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3257" it="0" lt="3194" ct="3132" ts="1742015296436" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="7731" sby="260" ng="3" na="3">
+  <httpSample t="3194" it="0" lt="3194" ct="3132" ts="1742015296436" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-100" dt="text" by="1518" sby="136" ng="3" na="3">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="63" it="0" lt="63" ct="0" ts="1742015299630" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="6213" sby="124" ng="3" na="3">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3320" it="0" lt="3249" ct="3183" ts="1742015296374" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="7731" sby="260" ng="2" na="2">
+  <httpSample t="3249" it="0" lt="3249" ct="3183" ts="1742015296374" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-94" dt="text" by="1518" sby="136" ng="2" na="2">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="71" it="0" lt="71" ct="0" ts="1742015299623" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="6213" sby="124" ng="2" na="2">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+<httpSample t="3273" it="0" lt="3206" ct="3141" ts="1742015296424" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="7731" sby="260" ng="1" na="1">
+  <httpSample t="3206" it="0" lt="3206" ct="3141" ts="1742015296424" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="Thread Group 1-99" dt="text" by="1518" sby="136" ng="1" na="1">
+    <java.net.URL>https://lapor.folkatech.com/admin/report</java.net.URL>
+  </httpSample>
+  <httpSample t="67" it="0" lt="67" ct="0" ts="1742015299630" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="6213" sby="124" ng="1" na="1">
+    <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://lapor.folkatech.com</java.net.URL>
+</httpSample>
+
+</testResults>
